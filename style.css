@@ -26,8 +26,8 @@ body{
 
 .container{
     display: grid;
-    min-height: 90vh:
-    grid-template-columns: repeat(4,250px);
+    min-height: 100vh:
+    grid-template-columns: repeat(4,33%);
     gap: 2rem;
     margin: 2.5rem;
 }
